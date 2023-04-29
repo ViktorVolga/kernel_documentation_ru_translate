@@ -1,0 +1,2 @@
+# kernel_documentation_ru_translate
+trnskription kernel documentation on russian
